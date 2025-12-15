@@ -1,10 +1,9 @@
 {
 	"name": "com.avelia.utils",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"display-name": "Package d'helper function",
 	"unity": "2021.2",
 	"author": {
-		"name": "Nathan Levy",
-		"email": "nathan.levylequart@gmail.com"
+		"name": "Avelia Bard"
 	}
 }
